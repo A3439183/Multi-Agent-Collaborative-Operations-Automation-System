@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+langchain
+chromadb
+faiss-cpu
+redis
+psycopg2
+crewai
+pyautogen
+python-dotenv
